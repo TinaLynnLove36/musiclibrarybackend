@@ -1,194 +1,258 @@
 [
-    {
-        "id": 1,
-        "title": "Drive My Car",
-        "album": "Rubber Soul",
-        "artist": "The Beatles",
-        "genre": "Folk Rock",
-        "releaseDate": "12/03/1965"
-        },
-        {
-        "id": 2,
-        "title": "Norwegian Wood",
-        "album": "Rubber Soul",
-        "artist": "The Beatles",
-        "genre": "Folk Rock",
-        "releaseDate": "12/03/1965"
-        },
-        {
-        "id": 3,
-        "title": "You Won't See Me",
-        "album": "Rubber Soul",
-        "artist": "The Beatles",
-        "genre": "Folk Rock",
-        "releaseDate": "12/03/1965"
-        },
-        {
-        "id": 4,
-        "title": "Nowhere Man",
-        "album": "Rubber Soul",
-        "artist": "The Beatles",
-        "genre": "Folk Rock",
-        "releaseDate": "12/03/1965"
-        },
-        {
-        "id": 5,
-        "title": "Think For Yourself",
-        "album": "Rubber Soul",
-        "artist": "The Beatles",
-        "genre": "Folk Rock",
-        "releaseDate": "12/03/1965"
-        },
-        {
-        "id": 6,
-        "title": "The Word",
-        "album": "Rubber Soul",
-        "artist": "The Beatles",
-        "genre": "Folk Rock",
-        "releaseDate": "12/03/1965"
-        },
-        {
-        "id": 7,
-        "title": "Michelle",
-        "album": "Rubber Soul",
-        "artist": "The Beatles",
-        "genre": "Folk Rock",
-        "releaseDate": "12/03/1965"
-        },
-        {
-        "id": 8,
-        "title": "What Goes On",
-        "album": "Rubber Soul",
-        "artist": "The Beatles",
-        "genre": "Folk Rock",
-        "releaseDate": "12/03/1965"
-        },
-        {
-        "id": 9,
-        "title": "Girl",
-        "album": "Rubber Soul",
-        "artist": "The Beatles",
-        "genre": "Folk Rock",
-        "releaseDate": "12/03/1965"
-        },
-        {
-        "id": 10,
-        "title": "I'm Looking Through You",
-        "album": "Rubber Soul",
-        "artist": "The Beatles",
-        "genre": "Folk Rock",
-        "releaseDate": "12/03/1965"
-        },
-        {
-        "id": 11,
-        "title": "In My Life",
-        "album": "Rubber Soul",
-        "artist": "The Beatles",
-        "genre": "Folk Rock",
-        "releaseDate": "12/03/1965"
-        },
-        {
-        "id": 12,
-        "title": "Wait",
-        "album": "Rubber Soul",
-        "artist": "The Beatles",
-        "genre": "Folk Rock",
-        "releaseDate": "12/03/1965"
-        },
-        {
-        "id": 13,
-        "title": "If I Needed Someone",
-        "album": "Rubber Soul",
-        "artist": "The Beatles",
-        "genre": "Folk Rock",
-        "releaseDate": "12/03/1965"
-        },
-        {
-        "id": 14,
-        "title": "Run For Your Life",
-        "album": "Rubber Soul",
-        "artist": "The Beatles",
-        "genre": "Folk Rock",
-        "releaseDate": "12/03/1965"
-        },
-        {
-        "id": 15,
-        "title": "The District Sleeps Alone Tonight",
-        "album": "Give Up",
-        "artist": "The Postal Service",
-        "genre": "Alternative Indie",
-        "releaseDate": "02/18/2003"
-        },
-        {
-        "id": 16,
-        "title": "Such Great Heights",
-        "album": "Give Up",
-        "artist": "The Postal Service",
-        "genre": "Alternative Indie",
-        "releaseDate": "02/18/2003"
-        },
-        {
-        "id": 17,
-        "title": "Sleeping In",
-        "album": "Give Up",
-        "artist": "The Postal Service",
-        "genre": "Alternative Indie",
-        "releaseDate": "02/18/2003"
-        },
-        {
-        "id": 18,
-        "title": "Nothing Better",
-        "album": "Give Up",
-        "artist": "The Postal Service",
-        "genre": "Alternative Indie",
-        "releaseDate": "02/18/2003"
-        },
-        {
-        "id": 19,
-        "title": "Recycled Air",
-        "album": "Give Up",
-        "artist": "The Postal Service",
-        "genre": "Alternative Indie",
-        "releaseDate": "02/18/2003"
-        },
-        {
-        "id": 20,
-        "title": "Clark Gable",
-        "album": "Give Up",
-        "artist": "The Postal Service",
-        "genre": "Alternative Indie",
-        "releaseDate": "02/18/2003"
-        },
-        {
-        "id": 21,
-        "title": "We Will Become Silhouettes",
-        "album": "Give Up",
-        "artist": "The Postal Service",
-        "genre": "Alternative Indie",
-        "releaseDate": "02/18/2003"
-        },
-        {
-        "id": 22,
-        "title": "This Place Is a Prison",
-        "album": "Give Up",
-        "artist": "The Postal Service",
-        "genre": "Alternative Indie",
-        "releaseDate": "02/18/2003"
-        },
-        {
-        "id": 23,
-        "title": "Brand New Colony",
-        "album": "Give Up",
-        "artist": "The Postal Service",
-        "genre": "Alternative Indie",
-        "releaseDate": "02/18/2003"
-        },
-        {
-        "id": 24,
-        "title": "Natural Anthem",
-        "album": "Give Up",
-        "artist": "The Postal Service",
-        "genre": "Alternative Indie",
-        "releaseDate": "02/18/2003"
-        }
+  {
+    "id": 1,
+    "title": "Stayed On Him",
+    "album": "Genesis of Terrain",
+    "artist": "Terrain",
+    "genre": "Contemporary Christian",
+    "releaseDate": "2/26/2021"
+  },
+  {
+    "id": 2,
+    "title": "Build My Life",
+    "album": "Build My Life",
+    "artist": "Pat Barrett",
+    "genre": "Praise and Worship",
+    "releaseDate": "12/21/2018"
+  },
+  {
+    "id": 3,
+    "title": "The Father's House",
+    "album": "To Love a Fool",
+    "artist": "Cory Asbury",
+    "genre": "Contemporary Worship",
+    "releaseDate": "1/24/2020"
+  },
+  {
+    "id": 4,
+    "title": "The Blessing",
+    "album": "Graves into Gardens",
+    "artist": "Kari Jobe",
+    "genre": "Praise and Worship",
+    "releaseDate": "3/20/2020"
+  },
+  {
+    "id": 5,
+    "title": "Known",
+    "album": "Hills and Valleys",
+    "artist": "Tauren Wells",
+    "genre": "Contemporary Christian",
+    "releaseDate": "6/23/2018"
+  },
+  {
+    "id": 6,
+    "title": "Even Then",
+    "album": "Different",
+    "artist": "Micah Tyler",
+    "genre": "Contemporary Christian",
+    "releaseDate": "11/1/2016"
+  },
+  {
+    "id": 7,
+    "title": "Reason",
+    "album": "Reason",
+    "artist": "Unspoken",
+    "genre": "Contemporary Christian",
+    "releaseDate": "6/24/2020"
+  },
+  {
+    "id": 8,
+    "title": "The Beakup Song",
+    "album": "Own It",
+    "artist": "Francesca Battistelli",
+    "genre": "Contemporary Christian",
+    "releaseDate": "10/26/2018"
+  },
+  {
+    "id": 9,
+    "title": "Me Without You",
+    "album": "Eye On It",
+    "artist": "Toby Mac",
+    "genre": "Christian Pop",
+    "releaseDate": "6/12/2012"
+  },
+  {
+    "id": 10,
+    "title": "Rise",
+    "album": "Hope in Front of Me",
+    "artist": "Danny Gokey",
+    "genre": "Christian Pop",
+    "releaseDate": "1/13/2017"
+  },
+  {
+    "id": 11,
+    "title": "Never Been a Moment",
+    "album": "Different",
+    "artist": "Micah Tyler",
+    "genre": "Contemporary Christian",
+    "releaseDate": "11/1/2016"
+  },
+  {
+    "id": 12,
+    "title": "Amen",
+    "album": "AMEN",
+    "artist": "Micah Tyler",
+    "genre": "Contemporary Christian",
+    "releaseDate": "11/1/2019"
+  },
+  {
+    "id": 13,
+    "title": "Grace Wins",
+    "album": "Live Forever",
+    "artist": "Matthew West",
+    "genre": "Contemporary Christian",
+    "releaseDate": "4/28/2015"
+  },
+  {
+    "id": 14,
+    "title": "The Lord's Prayer",
+    "album": "Love is a Lion",
+    "artist": "Citizen's Way",
+    "genre": "Contemporary Christian",
+    "releaseDate": "10/18/2019"
+  },
+  {
+    "id": 15,
+    "title": "Fix My Eyes",
+    "album": "Run Wild. Live Free. Love Strong.",
+    "artist": "For King and Country",
+    "genre": "Contemporary Christian",
+    "releaseDate": "09/16/2014"
+  },
+  {
+    "id": 16,
+    "title": "This is the Stuff",
+    "album": "Hundred More Years",
+    "artist": "Francesca Battistelli",
+    "genre": "Contemporary Christian",
+    "releaseDate": "02/25/2011"
+  },
+  {
+    "id": 17,
+    "title": "Priceless",
+    "album": "Run Wild. Live Free. Love Strong",
+    "artist": "For King and Country",
+    "genre": "Contemporary Christian",
+    "releaseDate": "09/16/2014"
+  },
+  {
+    "id": 18,
+    "title": "One Step Away",
+    "album": "The Very Next Thing",
+    "artist": "Casting Crowns",
+    "genre": "Contemporary Christian",
+    "releaseDate": "07/1/2016"
+  },
+  {
+    "id": 19,
+    "title": "Breathe",
+    "album": "Everything is Changing",
+    "artist": "Jonny Diaz",
+    "genre": "Contemporary Christian",
+    "releaseDate": "09/18/2015"
+  },
+  {
+    "id": 20,
+    "title": "Magnify",
+    "album": "We Are Messengers",
+    "artist": "We Are Messengers",
+    "genre": "Contemporary Christian",
+    "releaseDate": "04/22/2016"
+  },
+  {
+    "id": 21,
+    "title": "Greater",
+    "album": "Welcome to the New",
+    "artist": "MercyMe",
+    "genre": "Contemporary Christian",
+    "releaseDate": "03/25/2014"
+  },
+  {
+    "id": 22,
+    "title": "Good Good Father",
+    "album": "The Ultimate Playlist",
+    "artist": "Chris Tomlin",
+    "genre": "Contemporary Christian",
+    "releaseDate": "04/29/2016"
+  },
+  {
+    "id": 23,
+    "title": "God's Not Dead",
+    "album": "God's Not Dead",
+    "artist": "Newsboys",
+    "genre": "Contemporary Christian",
+    "releaseDate": "11/15/2011"
+  },
+  {
+    "id": 24,
+    "title": "Start a Fire",
+    "album": "Unspoken",
+    "artist": "Unspoken",
+    "genre": "Contemporary Christian",
+    "releaseDate": "04/1/2014"
+  },
+  {
+    "id": 25,
+    "title": "Flawless",
+    "album": "Welcome to the New",
+    "artist": "MercyMe",
+    "genre": "Contemporary Christian",
+    "releaseDate": "03/25/2014"
+  },
+  {
+    "id": 26,
+    "title": "Hold Me",
+    "album": "One Song at a Time",
+    "artist": "Jamie Grace",
+    "genre": "Contemporary Christian",
+    "releaseDate": "02/22/2011"
+  },
+  {
+    "id": 27,
+    "title": "You Lead",
+    "album": "One Song at a Time",
+    "artist": "Jamie Grace",
+    "genre": "Contemporary Christian",
+    "releaseDate": "02/22/2011"
+  },
+  {
+    "id": 28,
+    "title": "Control",
+    "album": "Followers",
+    "artist": "Tenth Avenue North",
+    "genre": "Contemporary Christian",
+    "releaseDate": "10/14/2016"
+  },
+  {
+    "id": 29,
+    "title": "No Shame",
+    "album": "No Shame",
+    "artist": "Tenth Avenue North",
+    "genre": "Contemporary Christian",
+    "releaseDate": "08/02/2019"
+  },
+  {
+    "id": 30,
+    "title": "Fear is a Liar",
+    "album": "Chain Breaker",
+    "artist": "Zach Wiliams",
+    "genre": "Contemporary Christian",
+    "releaseDate": "12/14/2016"
+  },
+  {
+    "id": 31,
+    "title": "Old Church Choir",
+    "album": "Chain Breaker",
+    "artist": "Zach Williams",
+    "genre": "Contemporary Christian",
+    "releaseDate": "12/14/2016"
+  },
+  {
+    "id": 32,
+    "title": "God Only Knows",
+    "album": "Burn the Ships",
+    "artist": "For King and Country",
+    "genre": "Contemporary Christian",
+    "releaseDate": "10/5/2018"
+  }
 ]
