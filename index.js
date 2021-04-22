@@ -8,8 +8,8 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.listen(3000, function () {
-    console.log("Server started. Listening on port 3000");
+app.listen(5000, function () {
+    console.log("Server started. Listening on port 5000");
 });
 
 app.get('/api/songs', (req, res) => {
@@ -18,11 +18,11 @@ app.get('/api/songs', (req, res) => {
     return res.send(songs);
 });
 
-app.get('/api/songs/:id', (req, res) => {
+ app.get('/api/songs/:id', (req, res) => {
     const id = req.params.id;
     const song = repoContext.songs.findSongById(id);
     return res.send(song);
-});
+}); 
 
 app.post('/api/songs', [validateSong], (req, res) => {
     const newSong = req.body;
