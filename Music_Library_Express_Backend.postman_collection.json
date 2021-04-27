@@ -1,0 +1,139 @@
+{
+	"info": {
+		"_postman_id": "53158f8e-6806-4970-bf64-c949412ae690",
+		"name": "Music_Library_Express_Backend",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get All Songs",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/songs",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"songs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Song",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/songs/15",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"songs",
+						"15"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Add Song",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\r\n  {\r\n    \"id\": 33,\r\n    \"title\": \"Ever Be\",\r\n    \"album\": \"We Will Not Be Shaken\",\r\n    \"artist\": \"Matt Stinton\",\r\n    \"genre\": \"Contemporary Christian\",\r\n    \"releaseDate\": \"01/26/2015\"\r\n      \r\n  }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/songs",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"songs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Song",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "  {\r\n    \"id\": 27,\r\n    \"title\": \"You Lead, I Follow\",\r\n    \"album\": \"One Song at a Time\",\r\n    \"artist\": \"Jamie Grace\",\r\n    \"genre\": \"Contemporary Christian\",\r\n    \"releaseDate\": \"02/22/2011\"\r\n  }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/songs/27",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"songs",
+						"27"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Song",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": " {\r\n    \"id\": 29,\r\n    \"title\": \"God Only Knows\",\r\n    \"album\": \"Burn the Ships\",\r\n    \"artist\": \"For King and Country\",\r\n    \"genre\": \"Contemporary Christian\",\r\n    \"releaseDate\": \"10/5/2018\"\r\n  }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/songs/29",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"songs",
+						"29"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

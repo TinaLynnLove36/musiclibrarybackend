@@ -1,10 +1,12 @@
 exports.validateSong = (req, res, next) => {
  const data = req.body;
  if(
- (data.hasOwnProperty('name') && typeof(data.name) === 'string') &&
- (data.hasOwnProperty('description') && typeof(data.description) === 'string') &&
- (data.hasOwnProperty('category') && typeof(data.category) === 'string') &&
- (data.hasOwnProperty('price') && typeof(data.price) === 'number')
+ (data.hasOwnProperty('id') && typeof(data.id) === 'number') &&
+ (data.hasOwnProperty('title') && typeof(data.title) === 'string') &&
+ (data.hasOwnProperty('album') && typeof(data.album) === 'string') &&
+ (data.hasOwnProperty('artist') && typeof(data.artist) === 'string') &&
+ (data.hasOwnProperty('genre') && typeof(data.genre) === 'string') &&
+ (data.hasOwnProperty('releaseDate') && typeof(data.releaseDate) === 'string')
  ){
  return next();
  }else{

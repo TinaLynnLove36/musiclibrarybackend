@@ -209,7 +209,7 @@
   },
   {
     "id": 27,
-    "title": "You Lead",
+    "title": "You Lead, I Follow",
     "album": "One Song at a Time",
     "artist": "Jamie Grace",
     "genre": "Contemporary Christian",
@@ -225,34 +225,10 @@
   },
   {
     "id": 29,
-    "title": "No Shame",
-    "album": "No Shame",
-    "artist": "Tenth Avenue North",
+    "title": "Ever Be",
+    "album": "We Will Not Be Shaken",
+    "artist": "Matt Stinton",
     "genre": "Contemporary Christian",
-    "releaseDate": "08/02/2019"
-  },
-  {
-    "id": 30,
-    "title": "Fear is a Liar",
-    "album": "Chain Breaker",
-    "artist": "Zach Wiliams",
-    "genre": "Contemporary Christian",
-    "releaseDate": "12/14/2016"
-  },
-  {
-    "id": 31,
-    "title": "Old Church Choir",
-    "album": "Chain Breaker",
-    "artist": "Zach Williams",
-    "genre": "Contemporary Christian",
-    "releaseDate": "12/14/2016"
-  },
-  {
-    "id": 32,
-    "title": "God Only Knows",
-    "album": "Burn the Ships",
-    "artist": "For King and Country",
-    "genre": "Contemporary Christian",
-    "releaseDate": "10/5/2018"
+    "releaseDate": "01/26/2015"
   }
 ]
